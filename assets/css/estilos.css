@@ -1,0 +1,75 @@
+body {
+    font-family: 'Roboto',sans-serif;
+    height: 20;
+    text-decoration: white;
+    background-color: black;
+}
+
+.navbar{
+    background-color: transparent;
+    position: fixed;
+    width:100vw;
+    z-index:1;
+
+}
+.caja{
+    border-color: black;
+    background-color: black;
+}
+.header .navbar {
+    background-color: transparent !important;
+  }  
+
+
+
+#cardy2{
+    background-color: black;
+    text-emphasis-color: white;
+}
+
+#cardy{
+ 
+    background-color:rgb(8, 147, 202);
+    text-emphasis-color: white;
+}
+
+.carousel-inner {
+    max-height:39rem;
+
+}
+hr{
+	border-top: 2px solid hsl(209, 97%, 65%);
+}
+
+
+#Quienes{
+    background-color: black;
+  
+}
+#icon{
+    background-color: hsl(209, 97%, 65%);
+}
+/*=========================contacto================================*/
+#Contacto div h1{
+font-size: 2px;
+
+}
+#Comtacto div hr{
+    width:150px;
+    border: 1px;
+}
+
+/*=========================FOOTER================================*/
+footer {
+    background: #07a3ca;
+    min-height: 30px;;
+}
+footer p{
+    color:#f3f3f3;
+    text-align:center;
+  }
+#iconos  i {
+    font-size: 20px;
+    padding: 05px;
+    color:#f3f3f3;
+}
